@@ -1,0 +1,17 @@
+body{
+
+}
+.menuicon
+{
+  width: 96px;
+  transition: transform 1s ease;
+
+
+
+}
+
+.menuicon:hover
+{
+  transform: translateX(200px) rotateZ(90deg);
+
+}
